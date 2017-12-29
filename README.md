@@ -1,7 +1,7 @@
 Welcome to the AWS CodeStar sample web application
 ==================================================
 
-aaa
+b
 
 What's Here
 -----------

@@ -1,7 +1,9 @@
-Welcome to the AWS CodeStar sample web application
-==================================================
+==README
 
-c
+
+Coder Manual Project Application
+Subscription-based web application
+http://codermanual.com
 
 What's Here
 -----------
